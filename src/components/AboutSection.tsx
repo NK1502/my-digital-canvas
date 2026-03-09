@@ -13,7 +13,7 @@ const AboutSection = () => {
         <div className="flex-1 text-center md:text-left">
           <p className="text-primary font-display text-sm tracking-widest uppercase mb-2">Hello, I'm</p>
           <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
-            <span className="text-gradient">A Computer Science</span>{" "}
+            <span className="text-gradient">An AI ML Engineer</span>{" "}
             <span className="text-foreground">Student</span>
           </h1>
           <p className="text-muted-foreground text-lg leading-relaxed max-w-xl">
