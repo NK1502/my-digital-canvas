@@ -3,8 +3,8 @@ import { Code, Brain, Users, MessageSquare, Lightbulb, Clock } from "lucide-reac
 const techSkills = [
   { name: "Python", level: 85 },
   { name: "Flask", level: 75 },
-  { name: "HTML/CSS", level: 90 },
-  { name: "JavaScript", level: 70 },
+  { name: "C++", level: 80 },
+  { name: "Django", level: 75 },
   { name: "Data Structures & Algorithms", level: 80 },
   { name: "Machine Learning", level: 65 },
   { name: "Git & GitHub", level: 80 },
