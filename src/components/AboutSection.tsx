@@ -17,14 +17,14 @@ const AboutSection = () => {
             <span className="text-foreground">Student</span>
           </h1>
           <p className="text-muted-foreground text-lg leading-relaxed max-w-xl">
-            I'm a passionate B.Tech CSE student at Lovely Professional University with a strong interest in software development,
-            machine learning, and problem-solving. I love building real-world applications that solve meaningful problems
-            and continuously strive to improve my skills through hands-on projects and competitive programming.
+            I'm an enthusiast Ai ML engineer and developer with a strong interest in software development, machine learning, and problem-solving. I love building real-world applications that solve meaningful problems and continuously strive to improve my skills through hands-on projects and competitive programming.
+          
+
           </p>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default AboutSection;
