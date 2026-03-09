@@ -15,7 +15,7 @@ const AboutSection = () => {
           <h1 className="font-display text-4xl md:text-5xl font-bold mb-4">
             <span className="text-gradient">Navneet Kumar</span>
           </h1>
-          <p className="text-xl text-muted-foreground font-display mb-2">An AI ML Engineer</p>
+          <p className="text-xl font-display mb-2"><span className="text-gradient font-semibold">An AI ML Engineer</span></p>
           <p className="text-muted-foreground text-lg leading-relaxed max-w-xl">
             I'm an enthusiast Ai ML engineer and developer with a strong interest in software development, machine learning, and problem-solving. I love building real-world applications that solve meaningful problems and continuously strive to improve my skills through hands-on projects and competitive programming.
           
