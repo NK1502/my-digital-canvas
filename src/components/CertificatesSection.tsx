@@ -13,7 +13,7 @@ const CertificatesSection = () => {
         <div className="glass-card overflow-hidden hover-lift max-w-3xl mx-auto">
           <div className="md:flex">
             <div className="md:w-1/2">
-              <img src={certImg} alt="Certificate" className="w-full h-full object-cover" />
+              <img alt="Certificate" className="w-full h-full object-cover" src="/lovable-uploads/8f32559a-2378-4fd0-83d3-e9d3b16b7114.png" />
             </div>
             <div className="md:w-1/2 p-6 flex flex-col justify-center">
               <h3 className="font-display text-xl font-bold text-foreground mb-3">Certificate of Achievement</h3>
@@ -26,16 +26,16 @@ const CertificatesSection = () => {
                 href="#"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 text-sm text-primary hover:underline"
-              >
+                className="inline-flex items-center gap-2 text-sm text-primary hover:underline">
+                
                 <ExternalLink className="w-4 h-4" /> View Certificate
               </a>
             </div>
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default CertificatesSection;
