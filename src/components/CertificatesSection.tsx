@@ -16,11 +16,11 @@ const CertificatesSection = () => {
               <img alt="Certificate" className="w-full h-full object-cover" src="/lovable-uploads/8f32559a-2378-4fd0-83d3-e9d3b16b7114.png" />
             </div>
             <div className="md:w-1/2 p-6 flex flex-col justify-center">
-              <h3 className="font-display text-xl font-bold text-foreground mb-3">Certificate of Achievement</h3>
+              <h3 className="font-display text-xl font-bold text-foreground mb-3">Certificate of Achievement – Python Development</h3>
               <ul className="space-y-2 text-sm text-muted-foreground list-disc list-inside mb-4">
-                <li>Completed a professional certification in Computer Science fundamentals.</li>
-                <li>Demonstrated proficiency in key technical areas and problem-solving.</li>
-                <li>Verified credential with industry-recognized standards.</li>
+                <li>Completed professional training in Python Development.</li>
+                <li>Gained hands-on experience with Python frameworks, libraries, and best practices.</li>
+                <li>Demonstrated proficiency in building scalable Python applications.</li>
               </ul>
               <a
                 href="#"
