@@ -33,7 +33,7 @@ const ContactSection = () => {
             <Mail className="w-4 h-4 text-primary" /> Email
           </a>
           <a
-            href="#"
+            href="/navneet_resume.pdf"
             download
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl text-sm font-semibold text-primary-foreground hover-lift"
             style={{ background: 'var(--gradient-primary)' }}
