@@ -26,12 +26,12 @@ const ProjectsSection = () => {
                 <li>Deployed on a structured backend–frontend architecture integrating HTML/CSS templates with Python.</li>
               </ul>
               <a
-                href="https://github.com"
+                href="https://project-ai-assistance.onrender.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-sm text-primary hover:underline"
               >
-                <ExternalLink className="w-4 h-4" /> View on GitHub
+                <ExternalLink className="w-4 h-4" /> View Live Project
               </a>
             </div>
           </div>
