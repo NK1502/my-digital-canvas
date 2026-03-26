@@ -64,6 +64,23 @@ const CertificatesSection = () => {
               </a>
             </div>
           </div>
+          {/* Certificate 4 - Hardware and Operating Systems */}
+          <div className="glass-card overflow-hidden hover-lift">
+            <div>
+              <img alt="Introduction to Hardware and Operating Systems Certificate" className="w-full h-48 object-cover object-top" src="/lovable-uploads/certificate-hardware-os.jpg" />
+            </div>
+            <div className="p-6">
+              <h3 className="font-display text-xl font-bold text-foreground mb-3">Introduction to Hardware and Operating Systems</h3>
+              <ul className="space-y-2 text-sm text-muted-foreground list-disc list-inside mb-4">
+                <li>Completed online course authorized by IBM and offered through Coursera.</li>
+                <li>Gained foundational knowledge of computer hardware components and operating system concepts.</li>
+                <li>Developed understanding of system architecture, memory management, and OS functionalities.</li>
+              </ul>
+              <a href="https://coursera.org/verify/WSMWVP2H1EBV" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-sm text-primary hover:underline">
+                <ExternalLink className="w-4 h-4" /> View Certificate
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>);
