@@ -81,6 +81,23 @@ const CertificatesSection = () => {
               </a>
             </div>
           </div>
+          {/* Certificate 5 - One India One World */}
+          <div className="glass-card overflow-hidden hover-lift">
+            <div>
+              <img alt="One India One World Certificate" className="w-full h-48 object-cover object-top" src="/lovable-uploads/certificate-one-india.jpg" />
+            </div>
+            <div className="p-6">
+              <h3 className="font-display text-xl font-bold text-foreground mb-3">Certificate of Recognition – ONE INDIA ONE WORLD 2025</h3>
+              <ul className="space-y-2 text-sm text-muted-foreground list-disc list-inside mb-4">
+                <li>Recognized for contribution as Music Participant in the ONE INDIA - ONE WORLD 2025 event.</li>
+                <li>Event organized by Department of Cultural Affairs, Lovely Professional University.</li>
+                <li>Demonstrated artistic talent and cultural engagement at a university-level event.</li>
+              </ul>
+              <a href="#" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-sm text-primary hover:underline">
+                <ExternalLink className="w-4 h-4" /> View Certificate
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </section>);
